@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/106495818?v=4" style="border-radius: 10000; -webkit-box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);
+<img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/d740da9fa8f7a380f915971afdc62c361bcd8efc758dfe3faeb9eb17e2bb268b.gif" style="border-radius: 10000; -webkit-box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);
 -moz-box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);
-box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="350" height="350" alt="Avatar" />
+box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="350" alt="Avatar" />
 
 # 👋 Привет! Меня зовут Артем
 
