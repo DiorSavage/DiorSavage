@@ -25,9 +25,10 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </div>
   <div align="center" style="display: flex; margin-left: auto; margin-right: auto; gap: 5px">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" alt="React Query" width="60" height="60"/>
   </div>
 
 </div>
@@ -41,6 +42,7 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
+  
 </p>
 
 ### **⚒️ Инструменты**
