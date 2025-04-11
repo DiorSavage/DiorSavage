@@ -37,7 +37,7 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width=60 height=60 />
   <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
