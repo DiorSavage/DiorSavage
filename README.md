@@ -36,14 +36,18 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
 
 ### **🗄️ Backend**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width=60 height=60 />
-  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
-  
+  <div align="center" style="display: flex; margin-left: auto; margin-right: auto; gap: 10px">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width=60 height=60 />
+    <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="60" />
+  </div>
+  <div align="center" style="display: flex; margin-left: auto; margin-right: auto; gap: 10px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60" height="60"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="60" height="60" />
+  </div>
 </p>
 
 ### **⚒️ Инструменты**
