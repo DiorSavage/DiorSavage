@@ -37,10 +37,11 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
 ### **🗄️ Backend**
 <p align="center">
   <div align="center" style="display: flex; margin-left: auto; margin-right: auto; gap: 10px">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
     <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width=60 height=60 />
     <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" height="60" />
+    <img src="https://github.com/user-attachments/assets/e5fdf8c3-3b27-4952-8882-7ab39d37c66d" height="60" width="60" />
   </div>
   <div align="center" style="display: flex; margin-left: auto; margin-right: auto; gap: 10px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
