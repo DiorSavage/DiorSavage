@@ -28,8 +28,8 @@ box-shadow: -5px 11px 27px 9px rgba(255, 255, 255, 0.35);" width="600" height="3
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="D3.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://tanstack.com/_build/assets/logo-color-100w-br5_Ikqp.png" alt="React Query" width="60" height="60"/>
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS" width=60 height=60 />
+  <img src="https://cdn.prod.website-files.com/675da0ab9f940c0315fd965f/6767dea5d39b71a90a2523db_react-query.webp" alt="React Query" width=60 height=60 />
   </div>
 
 </div>
